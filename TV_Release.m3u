@@ -18,12 +18,6 @@ http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8?|User-age
 http://spacetv.in/stream/DVB2D6AE8CU/173.m3u8
 #EXTINF:-1  group-title="Украинские",34 канал
 http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
-#EXTINF:-1  group-title="Украинские",4 канал
-http://api.tv.ipnet.ua:80/api/v1/manifest/2118742331.m3u8
-#EXTINF:-1  group-title="Украинские",4 канал Украина
-http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Украинские",4 Київ
-http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
 #EXTINF:-1 group-title="Украинские",ICTV
 http://spacetv.in/stream/DVB2D6AE8CU/158.m3u8
 #EXTINF:-1  group-title="Украинские",Inter
@@ -62,9 +56,6 @@ http://get.youpit.site/abc/abc.m3u8
 http://188.35.9.26:11051/udp/238.0.11.3:69000
 #EXTINF:-1  group-title="Украинские",TET
 http://cloudcdn.tk:80/live/yB0GRnn4629/n9MJYo37/2225.ts
-#EXTINF:-1  group-title="Украинские",UA TV
-http://188.35.9.11:21121/udp/178h
-#EXTINF:-1  group-title="Украинские",UA TV HD
 #EXTINF:-1  group-title="Украинские",UA: Перший
 http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/1024/index.m3u8
 #EXTINF:-1  group-title="Украинские",UA: Перший HD
@@ -75,30 +66,10 @@ http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4&app=playlist
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1  group-title="Украинские",UATV
 http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?codec=mpeg4
-#EXTINF:-1  group-title="Украинские",XSport
-http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1  group-title="Украинские",Z (Запоріжжя)
-https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1  group-title="Украинские",ZIK
-http://188.35.9.26:15031/udp/191j
-#EXTINF:-1  group-title="Украинские",ZIK (Резерв)
-http://play.lanet.tv/live/9050.m3u8
-#EXTINF:-1  group-title="Украинские",Zik HD
-http://185.189.184.7:8888/ZIK/index.m3u8?token=test
-#EXTINF:-1  group-title="Украинские",ZIK HD
-http://188.35.9.26:15030/udp/191j
-#EXTINF:-1  group-title="Украинские",Zoom
-http://188.35.9.11:11062/f
-#EXTINF:-1  group-title="Украинские",ZTV
-http://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1  group-title="Украинские",Возрождение
 http://bk2-hls.kinoplayer.co/hls/Voin.Boga.DVDRip/playlist.m3u8
 #EXTINF:-1  group-title="Украинские",Интер
 http://lb1.macc.com.ua/img/inter_2/index.m3u8
-#EXTINF:-1  group-title="Украинские",ИРТ (Днепр)
-http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Украинские",ИТВ
-http://195.5.108.14:1935/live/mp4:itv1_480p/playlist.m3u8
 #EXTINF:-1 group-title="Украинские",К1
 http://spacetv.in/stream/DVB2D6AE8CU/270.m3u8
 #EXTINF:-1  group-title="Украинские",К2
@@ -107,34 +78,6 @@ http://193.46.210.28/stream/dbfp6ab975g93whbqexaa6bti8ri6mt6hqugq9w3h3ag43bc2s2t
 http://185.189.184.7:8888/KvartalTV/index.m3u8?token=test
 #EXTINF:-1  group-title="Украинские",Квартал ТВ
 http://c0.cdn.trinity-tv.net/stream/hv2t5ht6g4hjanngtcmbjdqe66btwssnffqvvpkkjak54tzfv9kb5psjcirgmkc4iw5a83etvjtbc3bdhwchbczygxms82eg7j9xcrizttrhye2vy2n4km4sttasidjbg7a7wvzteiq4ypj23vje5h8b.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-2 tvg-name="Киев"  group-title="Украинские",Киев
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1  group-title="Украинские",Киев ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1  group-title="Украинские",Киевская Русь
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1  group-title="Украинские",Київ
-http://api.tv.ipnet.ua:80/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1  group-title="Украинские",Київ ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1  group-title="Украинские",КРТ
-http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1  group-title="Украинские",Крым 24
-http://dmitry-tv.ru/his/CH_24KRYM.m3u8
-#EXTINF:-1 group-title="Украинские",Культура
-http://spacetv.in/stream/DVB2D6AE8CU/229.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/ujPbqXH.jpg"  group-title="Украинские",М Студио UA
-http://213.174.23.59:8080/MS
-#EXTINF:-1  group-title="Украинские",Малятко ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&amp
-#EXTINF:-1  group-title="Украинские",Мега
-http://188.35.9.11:11082/s
-#EXTINF:-1  group-title="Украинские",Медіа Інформ (Одеса)
-http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
-#EXTINF:-1  group-title="Украинские",МТВ
-http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
-#EXTINF:-1  group-title="Украинские",Надія
-https://vs41.vcdn.biz/e13444466bf13cf9716c998e2fb8b715_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13559141/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid1126102735-b2000000.m3u8
 #EXTINF:-1  group-title="Украинские",Наш
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&amp;app=playlist
 #EXTINF:-1  group-title="Украинские",НАШ
@@ -143,12 +86,6 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&app=playlist
 http://tinyurl.com/v7b9jzf/pehgmkf3673fmwa7tnhu2ufvyusm9skzuvqb8equi4v9zref7n37rypnw3hwesramgu7m4y88zscecjp4ytv4cfm3h9guiiuq38vh7qvjkb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:-1  group-title="Украинские",НЛО ТВ
 http://195.34.74.6:8011/nlotv
-#EXTINF:-1  group-title="Украинские",Новий канал
-http://178.150.0.32:8081/udp/238.0.0.96:1234
-#EXTINF:-1  group-title="Украинские",Новий канал
-http://ott.shara.me:80/live/s.50587.3a5ad777fe0144e5b87af7e201f139afb4/novikanal_ua.ts
-#EXTINF:-1 group-title="Украинские",Новий канал
-http://spacetv.in/stream/DVB2D6AE8CU/157.m3u8
 #EXTINF:-1  group-title="Украинские",НТА (Львів)
 http://95.67.106.10/hls/nta_ua_mid/index.m3u8?|User-agent=mx
 #EXTINF:-1  group-title="Украинские",НТК Украина
@@ -161,68 +98,20 @@ https://player.obozrevatel.com/live1/stream.m3u8
 http://dmitry-tv.ru/his/CH_ONTV.m3u8
 #EXTINF:-1  group-title="Украинские",Объектив 59
 https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
-#EXTINF:-1  group-title="Украинские",ОГТРК
-http://api.tv.ipnet.ua:80/api/v1/manifest/2118742468.m3u8
-#EXTINF:-1  group-title="Украинские",Одеса
-http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8?|User-agent=mx
 #EXTINF:-1  group-title="Украинские",Орбiта
 http://ftp.orbita.dn.ua/hls/orbita.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Украинские",ОТБ Галичина
-http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8?codec=mpeg4
-#EXTINF:-1  group-title="Украинские",ОТВ (Днепр)
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8?version=2
 #EXTINF:-1  group-title="Украинские",Оце
 https://cdnmfw.tvzavr.ru/stream/tvzavr/3/e332eddf-4e29-4252-85e9-8cccb1f31220/e332eddf-4e29-4252-85e9-8cccb1f31220-audio_rus%3D189375-video%3D4991000.m3u8
-#EXTINF:-1  group-title="Украинские",Первый городской (Одесса)
-http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1  group-title="Украинские",Первый Городской HD (Одеса)
-http://91.194.79.46:8081/stream1/channel1/chunks.m3u8
-#EXTINF:-1  group-title="Украинские",Первый Городской Кривой Рог
-http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr-lq/1tvkr/1tvkr-sub/chunks.m3u8
-#EXTINF:-1  group-title="Украинские",Перший західний
-http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Украинские",Перший Західний (Львов)
-http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8?codec=mpeg4&app=playlist
 #EXTINF:-1  group-title="Украинские",Пиксель
 http://playlist.hmara.tv:80/4a8a78be/0eca9bf3f8db35e996c31a95f3befb1da8369da2.m3u8
 #EXTINF:-1  group-title="Украинские",ПлюсПлюс
 http://cdnua03.hls.tv/133/hls/99c91cce995b5620c9929e6835e6caf1/136/stream.m3u8
-#EXTINF:-1  group-title="Украинские",Пляж Ланжерон – Немо (Вебкамера)
-http://cdn1.live-tv.od.ua:8081/nemo/mor-sub/playlist.m3u8
-#EXTINF:-1  group-title="Украинские",Прямий
-http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Украинские",Прямий HD
-http://c0.cdn.trinity-tv.net/stream/wbjtyyfi6w4ymrpq8qa6i7d8uw2s52k6fqryismcfmkwampudmhksi32zr5f3esi57pm8jjgcd4tt3xm6jwi67x53hnqdp57yb6i947vfqbe4tuhfs4juy5rbg5bba586w2ikckdj2ud4q39anm93wjq.m3u8
-#EXTINF:-1  group-title="Украинские",Рада
-http://188.35.9.26:15031/udp/193l
-#EXTINF:-1  group-title="Украинские",Рада ТВ (Украина)
-http://217.20.164.181/live/rada480p.stream/playlist.m3u8?|User-agent=mx
 #EXTINF:-1  group-title="Украинские",Радио Люкс
 http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
 #EXTINF:-1  group-title="Украинские",Репортер
 https://vs59.vcdn.biz/403620c5d5ea57384c29c8de58e93dfb_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/49414521/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid318065947-b2000000.m3u8
 #EXTINF:-1  group-title="Украинские",Рівне 1
 https://cdn1.limantv.com:8083/r1test/abr/r1test/720p/chunks.m3u8
-#EXTINF:-1  group-title="Украинские",Сварожичи
-https://vs9.vcdn.biz/6b61dd7b960f74ec9d9af93365e860ce_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/240671/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid673750347-b2000000.m3u8
-#EXTINF:-1  group-title="Украинские",Сварожичи ТВ UA HD
-http://80.91.177.102:1935/live/live1/playlist.m3u8
-#EXTINF:-1  group-title="Украинские",Сварожичі
-http://80.91.177.102:1935/live/live2/playlist.m3u8
-#EXTINF:-1  group-title="Украинские",СК1
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
-#EXTINF:-1  group-title="Украинские",СК1 (Житомир)
-http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/982/index.m3u8
-#EXTINF:-1  group-title="Украинские",СК1 HD
-http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
-#EXTINF:-1  group-title="Украинские",Скiфiя
-http://cdn10.live-tv.od.ua:8081/odtrkks/odtrkks-abr/odtrkks/odtrkks/playlist.m3u8
-#EXTINF:-1  group-title="Украинские",Смiла ТВ HD
-http://dmitry-tv.ru/his/yatv/CH_SMAYLIKHD_720.m3u8
-#EXTINF:-1  group-title="Украинские",Сонце
-http://195.138.81.101:8081/hls_sec/239.0.40.52-.m3u8?|User-agent=mx
-#EXTINF:-1 group-title="Украинские",СТБ
-http://spacetv.in/stream/DVB2D6AE8CU/156.m3u8
 #EXTINF:-1  group-title="Украинские",Страна советов
 http://188.35.9.11:21111/udp/150k
 #EXTINF:-1  group-title="Украинские",ТIС
@@ -283,698 +172,6 @@ http://cdn1.live-tv.od.ua:8081/wave/wave-abr-lq/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-504/playlist.m3u8
 #EXTINF:-1  group-title="Украинские",ЯТБ
 http://46.175.163.130/live_yatb/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",1 Республиканский HD
-http://185.114.136.25/first-republic-tv
-#EXTINF:-1  group-title="Новостные",112 UA
-http://112.ua/components/flowplayer/html5/master.m3u8
-#EXTINF:-1  group-title="Новостные",112 Украина (звук)
-http://audiolive-clf.112.ua/master-playlist-audio.m3u8
-#EXTINF:-1  group-title="Новостные",112 Украина [FHD]
-http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
-#EXTINF:-1  group-title="Новостные",112 Украина [HD]
-http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
-#EXTINF:-1  group-title="Новостные",112 Украина [HD]
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
-#EXTINF:-1 group-title="Новостные",112 Украина [HD]
-http://spacetv.in/stream/DVB2D6AE8CU/271.m3u8
-#EXTINF:-1  group-title="Новостные",112 Украина [HD]
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Новостные",112 Украина [HD]
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1  group-title="Новостные",112 Украина [HD]
-http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Новостные",112 Украина
-http://95.67.21.132/hls/112hd_ua_mid/index.m3u8
-#EXTINF:-1  group-title="Новостные",112 Украина
-http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
-#EXTINF:-1  group-title="Новостные",112 Украина
-http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
-#EXTINF:-1  group-title="Новостные",112 Украина
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
-#EXTINF:-1  group-title="Новостные",112 Украина
-http://bdhwg0cr.ottclub.xyz/iptv/H8PKZNSCSE7W75/924/index.m3u
-#EXTINF:-1  group-title="Новостные",12 КАНАЛ
-https://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Новостные",1PLUS1 INTERNATIONAL
-https://live-k2302-kbp.1plus1.video/227022/smil:227022.smil/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",24
-http://ott-cdn.ucom.am/s24/01.m3u8
-#EXTINF:-1  group-title="Новостные",24 КАНАЛ
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?
-#EXTINF:-1  group-title="Новостные",24 КАНАЛ HD
-http://bdhwg0cr.ottclub.xyz/iptv/H8PKZNSCSE7W75/1063/index.m3u
-#EXTINF:-1  group-title="Новостные",24 канал HD
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",24 КАНАЛ SD
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b386000.m3u8
-#EXTINF:-1  group-title="Новостные",24 Канал
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
-#EXTINF:-1  group-title="Новостные",24 Канал
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1  group-title="Новостные",28 KANALA
-https://5940924978228.streamlock.net/8157/8157/.m3u8?fluxustv.m3u8
-#EXTINF:-1  group-title="Новостные",360° Новости
-http://188.113.190.12/226/video.m3u8
-#EXTINF:-1  group-title="Новостные",360° Новости
-http://dmitry-tv.ru/his/CH_360TV_NEWS.m3u8
-#EXTINF:-1  group-title="Новостные",360° Новости
-http://nl01.spr24.net/6792/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1  group-title="Новостные",360° Новости
-https://live2-trkterra.cdnvideo.ru/trkterra-httppull/trkterra-pull/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",360° Новости HD
-http://188.242.173.37:81/udp/239.239.3.53:5239
-#EXTINF:-1  group-title="Новостные",360° Новости HD
-http://dmitry-tv.ru/his/CH_360TV_NEWSHD.m3u8
-#EXTINF:-1  group-title="Новостные",360° Новости HD
-http://46.180.99.15:81/udp/239.255.42.216:1234
-#EXTINF:-1  group-title="Новостные",360° Новости HD
-http://178.163.31.5:81/udp/234.0.0.8:2000
-#EXTINF:-1  group-title="Новостные",360° Подмосковье HD
-http://188.113.190.12/223/video.m3u8
-#EXTINF:-1  group-title="Новостные",5 канал
-http://37.235.191.107:81/udp/225.50.66.95:1234
-#EXTINF:-1  group-title="Новостные",5 канал (Украина)
-http://api.tv.ipnet.ua/api/v1/manifest/2118742539.m3u8?codec=mpeg4
-#EXTINF:-1  group-title="Новостные",78 Канал
-http://188.242.173.37:81/udp/239.239.3.68:5239
-#EXTINF:-1  group-title="Новостные",7News Boston (WHDH)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-#EXTINF:-1  group-title="Новостные",92 News
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",92 News UK
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1  group-title="Новостные",ABC News
-http://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
-#EXTINF:-1  group-title="Новостные",ABC News (USA)
-https://markenfunk.tv/plive/chunks.php
-#EXTINF:-1  group-title="Новостные",ABC News HD
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-#EXTINF:-1  group-title="Новостные",ABC News(USA)
-https://markenfunk.tv/plive/chunks.php?tenant=brandnite&amp;id=48c8fa3d82fe3afa989c641eca4538c0&amp;variant=2
-#EXTINF:-1  group-title="Новостные",AL BAGHDADIA 2
-http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
-#EXTINF:-1  group-title="Новостные",AL Hurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1  group-title="Новостные",Al Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
-#EXTINF:-1  group-title="Новостные",Al Jazeera EN
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:-1  group-title="Новостные",Al Jazeera English
-http://ott-cdn.ucom.am/s23/index.m3u8
-#EXTINF:-1  group-title="Новостные",Al Jazeera HD
-http://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
-#EXTINF:-1  group-title="Новостные",ARB 24
-http://85.132.81.184:8080/arb24/live1/index.m3u8
-#EXTINF:-1  group-title="Новостные",Ariana News
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
-#EXTINF:-1  group-title="Новостные",Ariana TV
-http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
-#EXTINF:-1  group-title="Новостные",Arirang TV
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1  group-title="Новостные",ArmNews
-http://ott-cdn.ucom.am/s11/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1  group-title="Новостные",Assam Talks
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
-#EXTINF:-1  group-title="Новостные",Atameken
-http://sc.id-tv.kz/Atameken_34_35.m3u8
-#EXTINF:-1  group-title="Новостные",Atameken Business
-http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1  group-title="Новостные",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1  group-title="Новостные",BBC WORLD NEWS
-http://31.41.100.80:81/udp/225.0.55.215:1234
-#EXTINF:-1  group-title="Новостные",BBC WORLD NEWS [SD]
-http://92.43.140.249/s24/04.m3u8
-#EXTINF:-1 group-title="Новостные",BBC World News Europe
-http://spacetv.in/stream/DVB2D6AE8CU/85.m3u8
-#EXTINF:-1  group-title="Новостные",BELARUS 24
-http://83.246.214.68:81/udp/239.54.5.175:1224
-#EXTINF:-1  group-title="Новостные",BFM Paris
-http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:-1  group-title="Новостные",Big Ten Network HD
-http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
-#EXTINF:-1  group-title="Новостные",Bloomberg
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1  group-title="Новостные",BLOOMBERG
-http://65.117.121.43/live/live.m3u8
-#EXTINF:-1  group-title="Новостные",Bloomberg (EN)
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1  group-title="Новостные",Bloomberg HD
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1  group-title="Новостные",BLOOMBERG HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/30982.ts
-#EXTINF:-1  group-title="Новостные",Bloomberg TV
-http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
-#EXTINF:-1  group-title="Новостные",BLOOMBERG TV
-https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
-#EXTINF:-1  group-title="Новостные",BLOOMBERG TV EUROPE
-http://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1  group-title="Новостные",Bloomberg TV HD
-http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1  group-title="Новостные",BOOMBERG
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47931.m3u8
-#EXTINF:-1  group-title="Новостные",BOOMERANG
-http://178.217.72.66:80/225.201.2.52/video.m3u8
-#EXTINF:-1  group-title="Новостные",BOOMERANG HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/24858.ts
-#EXTINF:-1  group-title="Новостные",Caspian News (KZ)
-https://sc.id-tv.kz/CaspianNews_34_35.m3u8
-#EXTINF:-1  group-title="Новостные",CBN News
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1  group-title="Новостные",CBN NEWS
-http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
-#EXTINF:-1  group-title="Новостные",CBSN
-http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
-#EXTINF:-1  group-title="Новостные",CBSN HD
-http://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
-#EXTINF:-1  group-title="Новостные",CCTV-2
-http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1  group-title="Новостные",CGTN
-http://dmitry-tv.ru/his/CH_CGTNENG.m3u8
-#EXTINF:-1  group-title="Новостные",Cheddar
-https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
-#EXTINF:-1 group-title="Новостные",CNN
-http://spacetv.in/stream/DVB2D6AE8CU/84.m3u8
-#EXTINF:-1  group-title="Новостные",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",CNN International
-http://83.246.214.68:81/udp/239.54.7.60:1224
-#EXTINF:-1  group-title="Новостные",CNN TURK
-http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1  group-title="Новостные",CNN Turk
-http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1  group-title="Новостные",C-SPAN
-https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
-#EXTINF:-1  group-title="Новостные",CW 24 TV
-http://cdn.stream360.pl/CW24/cw24live/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",DD News
-http://bit.ly/2m4L4mi
-#EXTINF:-1  group-title="Новостные",Deutsche Welle
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1  group-title="Новостные",Di TV
-https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1  group-title="Новостные",DW
-http://151.80.59.206/TV/FLASH-TV/n/mac/393.m3u8
-#EXTINF:-1  group-title="Новостные",DW TV English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1  group-title="Новостные",DW TV Espanol
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_3_av-p.m3u8
-#EXTINF:-1  group-title="Новостные",Earth TV
-http://193.46.210.28/stream/ah8zjmht99tjy9ygniuytjv2gffgan8uex2gnp889m4at7h7bmxewc9wun78zhim66kihn9r8q6qesvnd85hd2m4haj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-#EXTINF:-1  group-title="Новостные",Earth TV HD
-http://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1  group-title="Новостные",ET Now
-http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8
-#EXTINF:-1 group-title="Новостные",euronews
-http://spacetv.in/stream/DVB2D6AE8CU/189.m3u8
-#EXTINF:-1  group-title="Новостные",Euronews
-http://188.113.190.12/124/video.m3u8
-#EXTINF:-1  group-title="Новостные",EuroNews
-http://193.33.39.107:8088/euronews/index.m3u8
-#EXTINF:-1  group-title="Новостные",Euronews DE
-http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_LQ.m3u8
-#EXTINF:-1  group-title="Новостные",Euronews/H1 (DE)
-http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
-#EXTINF:-1  group-title="Новостные",Eurosport News
-http://46.160.166.9:81/udp/239.254.2.211:1234
-#EXTINF:-1  group-title="Новостные",Eurosport 1 НD
-http://85.143.191.135/42/fe072cdfc3a6db442df1de456fee4b4fbd429d76/172/stream.m3u8
-#EXTINF:-1  group-title="Новостные",Expressen TV
-https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8?fluxustv.m3u8
-#EXTINF:-1  group-title="Новостные",Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1  group-title="Новостные",France 24
-http://cloudcdn.tk:80/live/yB0GRnn4629/n9MJYo37/20166.ts
-#EXTINF:-1  group-title="Новостные",France 24 (ENG)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1  group-title="Новостные",France 24 (ESP)
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
-#EXTINF:-1  group-title="Новостные",France 24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1  group-title="Новостные",France 24 English
-http://85.143.191.135/42/fe072cdfc3a6db442df1de456fee4b4fbd429d76/275/stream.m3u8
-#EXTINF:-1  group-title="Новостные",France 24 HD
-http://151.80.59.206/TV/FLASH-TV/n/mac/392.m3u8
-#EXTINF:-1  group-title="Новостные",India Ahead
-http://p-indiaahead.planetcast.in/01.m3u8
-#EXTINF:-1  group-title="Новостные",India TV
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
-#EXTINF:-1  group-title="Новостные",INFO WARS TV
-http://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b2244608.m3u8
-#EXTINF:-1  group-title="Новостные",IZ.RU
-http://188.113.190.12/231/video.m3u8
-#EXTINF:-1  group-title="Новостные",IZ.RU HD
-http://dmitry-tv.ru/his/CH_IZRUHD.m3u8
-#EXTINF:-1  group-title="Новостные",Kanak News
-http://139.59.13.228:8081/live/stream/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Life78
-http://188.242.14.73:81/udp/239.239.3.68:5239
-#EXTINF:-1  group-title="Новостные",Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:-1  group-title="Новостные",NBC
-http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1  group-title="Новостные",NBC (WTVJ) (EST)
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1  group-title="Новостные",NBC 11 News (Bay Area)
-http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
-#EXTINF:-1  group-title="Новостные",NBC 5 News (Chicago)
-http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
-#EXTINF:-1  group-title="Новостные",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1  group-title="Новостные",News 12 Bronx
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
-#EXTINF:-1  group-title="Новостные",News 12 Brooklyn
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
-#EXTINF:-1  group-title="Новостные",News 12 Long Island
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
-#EXTINF:-1  group-title="Новостные",News 12 New Jersey
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
-#EXTINF:-1  group-title="Новостные",News 12+ Hudson Valley
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
-#EXTINF:-1  group-title="Новостные",News 12+ New Jersey
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
-#EXTINF:-1  group-title="Новостные",News 24
-http://193.33.39.107:8088/tv24/index.m3u8
-#EXTINF:-1  group-title="Новостные",News 24 Balkan
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",News 24 Japan
-http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1  group-title="Новостные",News Center 7 (Ohio)
-http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
-#EXTINF:-1  group-title="Новостные",News Net
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1  group-title="Новостные",News Network
-http://bdhwg0cr.ottclub.xyz/iptv/H8PKZNSCSE7W75/978/index.m3u
-#EXTINF:-1  group-title="Новостные",News One HD (UA)
-http://178.150.0.32:8081/udp/238.0.0.37:1234
-#EXTINF:-1  group-title="Новостные",News18 Haryana
-https://etv-haryana.akamaized.net/i/etv_haryana_live_1@349009/index_1_av-b.m3u8
-#EXTINF:-1  group-title="Новостные",NEWS24
-http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1  group-title="Новостные",Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1  group-title="Новостные",NewsNetwork
-http://ec4cc7d4.shukinuki.ru/iptv/UZVA6ES7MTS6UC/978/index.m3u8
-#EXTINF:-1  group-title="Новостные",NewsONE
-http://nl01.spr24.net/180/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1  group-title="Новостные",NewsOne HD
-http://bdhwg0cr.ottclub.xyz/iptv/H8PKZNSCSE7W75/926/index.m3u
-#EXTINF:-1  group-title="Новостные",NTN
-http://188.35.9.26:11050/udp/238.0.11.3:69000
-#EXTINF:-1  group-title="Новостные",NTN24
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/31069.ts
-#EXTINF:-1  group-title="Новостные",NTV
-http://188.113.190.12/4/index.m3u8
-#EXTINF:-1  group-title="Новостные",Oboz TV
-http://nvkdn.redi-vo.com/vod/Ocean_14.mp4?code=1701273726237058&key=33896
-#EXTINF:-1  group-title="Новостные",Ora News
-https://tv.oranews.tv/live/oranews/index.m3u8
-#EXTINF:-1  group-title="Новостные",Press TV
-https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",PRIMA TV
-http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Pro TV News
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
-#EXTINF:-1  group-title="Новостные",Pro TV News (ROM)
-http://stream1.protv.ro/news/stream:1.stream/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Publika TV
-http://livebeta.publika.md/LIVE/P/1000.m3u8
-#EXTINF:-1  group-title="Новостные",Rabinovich TV
-http://cloudcdn.tk:80/live/yB0GRnn4629/n9MJYo37/15019.ts
-#EXTINF:-1  group-title="Новостные",Rai News 24
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
-#EXTINF:-1  group-title="Новостные",RaiNews24
-http://ott-cdn.ucom.am/s86/01.m3u8
-#EXTINF:-1  group-title="Новостные",Real TV
-https://streams.livetv.az/azerbaijan/real/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",RT
-http://46.180.99.15:81/udp/239.255.42.116:1234
-#EXTINF:-1  group-title="Новостные",RT America
-http://rt-usa.secure.footprint.net/1105.m3u8
-#EXTINF:-1  group-title="Новостные",RT Doc HD
-http://188.113.190.12/193/video.m3u8
-#EXTINF:-1  group-title="Новостные",RT Espanol
-http://rt-esp.secure.footprint.net/1102.m3u8
-#EXTINF:-1  group-title="Новостные",RT Espanol
-http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
-#EXTINF:-1  group-title="Новостные",RT France
-http://rt-france.secure.footprint.net/1107.m3u8
-#EXTINF:-1  group-title="Новостные",RT HD
-http://dmitry-tv.my1.ru/his/yatv/CH_RTHD.m3u8
-#EXTINF:-1  group-title="Новостные",RT UK
-http://cloudcdn.tk:80/live/yB0GRnn4629/n9MJYo37/14821.ts
-#EXTINF:-1  group-title="Новостные",RT US
-https://rt-usa.secure.footprint.net/1105.m3u8
-#EXTINF:-1  group-title="Новостные",RTE News
-https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8
-#EXTINF:-1  group-title="Новостные",RTi
-http://tinyurl.com/w9ajoxx/rti_ua.ts
-#EXTINF:-1  group-title="Новостные",RTP3
-http://188.35.9.11:21081/udp/112t
-#EXTINF:-1  group-title="Новостные",RTVi
-http://217.21.34.158:30000/RTVI/index.m3u8
-#EXTINF:-1  group-title="Новостные",Russia Today
-http://ott-cdn.ucom.am/s96/index.m3u8
-#EXTINF:-1  group-title="Новостные",Russia Today (Arabic)
-http://rt-lh.akamaihd.net/i/ch_03@325607/index_320p_av-b.m3u8
-#EXTINF:-1  group-title="Новостные",Russia Today HD
-http://37.193.6.155:34040/udp/239.1.9.4:1234
-#EXTINF:-1  group-title="Новостные",Russia Today HD (France)
-http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
-#EXTINF:-1  group-title="Новостные",Shant News
-http://85.143.191.135/42/fe072cdfc3a6db442df1de456fee4b4fbd429d76/228/stream.m3u8
-#EXTINF:-1  group-title="Новостные",Shant news HD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTNEWSHD/variant.m3u8
-#EXTINF:-1  group-title="Новостные",SKRYPIN UA
-https://open-cdn.lanet.tv/live/1008.m3u8
-#EXTINF:-1  group-title="Новостные",Skrypin.UA
-http://bdhwg0cr.ottclub.xyz/iptv/H8PKZNSCSE7W75/944/index.m3u
-#EXTINF:-1  group-title="Новостные",Sky News
-http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8
-#EXTINF:-1  group-title="Новостные",Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1  group-title="Новостные",Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1  group-title="Новостные",Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1  group-title="Новостные",Sky News HD
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1  group-title="Новостные",SKY TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Syria News
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8
-#EXTINF:-1  group-title="Новостные",TG Norba24
-http://flash5.streaming.xdevel.com/tgnorba_24/smil:tgnorba_24.smil/chunklist_b350000.m3u8
-#EXTINF:-1  group-title="Новостные",TGRT Haber
-http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Thanthi TV
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
-#EXTINF:-1  group-title="Новостные",TP BBC WORLD NEWS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/30805.ts
-#EXTINF:-1  group-title="Новостные",TP BLOMMBERG
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/30806.ts
-#EXTINF:-1  group-title="Новостные",TP BLOOMBERG
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/30807.ts
-#EXTINF:-1  group-title="Новостные",TRT Haber
-http://dmitry-tv.ru/his/CH_TRTHABER.m3u8
-#EXTINF:-1  group-title="Новостные",TRT World
-http://dmitry-tv.ru/his/CH_TRTWORLD.m3u8
-#EXTINF:-1  group-title="Новостные",TV 4
-https://5ca3e84a76d30.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1  group-title="Новостные",TV100
-http://178.62.176.153/hls/tv100/index.m3u8
-#EXTINF:-1  group-title="Новостные",TV5 Monde
-http://188.35.9.11:21121/udp/175d
-#EXTINF:-1  group-title="Новостные",TVP Info
-http://188.35.9.11:21081/udp/135i
-#EXTINF:-1  group-title="Новостные",UNICANAL
-http://45.55.127.106/live/unicanal_src.m3u8
-#EXTINF:-1  group-title="Новостные",WGN NEWS CHICAGO
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 tvg-id="7912d44121d5369a975e881e4ba53330"  group-title="Новостные",YTN
-http://220.81.169.165:9981/stream/channelid/1104417401?ticket=17EE6ADFBB3E72DA2E29DC45B1977EA994575575&profile=pass
-#EXTINF:-1  group-title="Новостные",ZDFinfo
-http://nl01.spr24.net/825/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1  group-title="Новостные",Арктика 24
-http://144.76.199.108:8000/play/a020/index.m3u8?auth=test:1234
-#EXTINF:-1  group-title="Новостные",Астрахань 24 HD
-http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="afontovo-kr"  group-title="Новостные",Афонтово
-https://xstream.afontovo.ru/afontovo_ya.m3u8
-#EXTINF:-1  group-title="Новостные",Афонтово (Красноярск)
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8?version=2
-#EXTINF:-1  group-title="Новостные",ББК
-http://noname.do.am/z/low/bbk.m3u8
-#EXTINF:-1  group-title="Новостные",БЕКЛАРУСЬ 24
-http://178.163.50.209:4022/udp/234.0.0.199:2000
-#EXTINF:-1  group-title="Новостные",Беларусь 24
-http://176.222.255.187:81/udp/239.254.2.245:1234?deooleg
-#EXTINF:-1  group-title="Новостные",БЕЛАРУСЬ 24
-http://178.163.127.248:4022/udp/234.0.0.199:2000
-#EXTINF:-1  group-title="Новостные",БЕЛАРУСЬ 24 [HD]
-http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/1061/index.m3u8
-#EXTINF:-1  group-title="Новостные",БЕЛАРУСЬ 24 HD
-https://nimble01edge01.hoster.by/belarus24hd/livehd/chunks.m3u8
-#EXTINF:-1 group-title="Новостные",БЕЛАРУСЬ 5
-http://spacetv.in/stream/DVB2D6AE8CU/33.m3u8
-#EXTINF:-1  group-title="Новостные",БЕЛАРУСЬ 5 HD
-http://85.143.191.135/42/fe072cdfc3a6db442df1de456fee4b4fbd429d76/177/stream.m3u8
-#EXTINF:-1  group-title="Новостные",Белгород 24
-http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Новостные",БОБЕР
-http://188.113.190.12/131/video.m3u8
-#EXTINF:-1  group-title="Новостные",Болгария 24
-http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:-1  group-title="Новостные",Вести ФМ
-http://37.235.139.205:81/udp/225.50.66.162:1234
-#EXTINF:-1  group-title="Новостные",Вместе РФ
-http://188.242.199.174:81/udp/239.239.3.35:5239
-#EXTINF:-1  group-title="Новостные",Вместе РФ HD
-http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="Новостные",Вместе-РФ
-http://188.113.190.12/227/video.m3u8
-#EXTINF:-1  group-title="Новостные",Вся Уфа +2
-https://strm.yandex.ru/kal/allufa/allufa0.m3u8
-#EXTINF:-1  group-title="Новостные",Град
-http://195.138.79.232:4022/udp/239.0.19.20:1234
-#EXTINF:-1  group-title="Новостные",Губерния 33 (Владимир)
-http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Дагестан ТВ
-http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/index.m3u8
-#EXTINF:-1  group-title="Новостные",Дождь
-http://strm.yandex.ru/kal/tvrain/tvrain0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1  group-title="Новостные",ДОЖДЬ
-https://strm.yandex.ru/kal/tvrain/tvrain0.m3u8
-#EXTINF:-1  group-title="Новостные",Дождь HD
-http://37.235.254.189:81/udp/225.50.76.2:1234
-#EXTINF:-1  group-title="Новостные",Дума ТВ
-http://live-dumatv.cdnvideo.ru/dumatv/dumatv/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Дума ТВ HD
-http://serv30.vintera.tv:8081/parlament/parlament_stream/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Думская.TV
-https://cdn1.live-tv.od.ua:8083/dumska/dumska-abr-lq/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",ЕвроНовости
-http://128.69.110.150:4022/udp/233.33.210.34:5050
-#EXTINF:-1  group-title="Новостные",ЕвроНовости
-http://37.235.191.107:81/udp/225.50.64.68:1234
-#EXTINF:-1  group-title="Новостные",ЕвроНовости
-http://37.235.216.120:81/udp/225.50.64.68:1234
-#EXTINF:-1  group-title="Новостные",ЕСПРЕСО ТВ
-http://188.35.9.11:11154/s
-#EXTINF:-1  group-title="Новостные",Известия
-http://178.16.180.133:9999/play/a0m1
-#EXTINF:-1  group-title="Новостные",Ингушетия ТВ
-http://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1  group-title="Новостные",ИНТЕР
-http://lb1.macc.com.ua/img/inter_2/index.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Новостные",ИНТЕР (1)
-https://edge3.iptv.macc.com.ua/img/inter_1/index.m3u8
-#EXTINF:-1  group-title="Новостные",Кавказ 24
-http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Катунь 24
-http://dmitry-tv.my1.ru/his/yatv/CH_KATUN24.m3u8
-#EXTINF:-1  group-title="Новостные",Красная Линия
-http://188.242.199.174:81/udp/239.239.3.20:5239
-#EXTINF:-1  group-title="Новостные",КРИК-ТВ
-https://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Крым 1
-http://176.114.128.43:81/udp/239.100.2.58:1234
-#EXTINF:-1  group-title="Новостные",Кубань 24 Орбита
-http://178.16.180.133:9999/play/a07l
-#EXTINF:-1  group-title="Новостные",Кузбасс 24
-http://46.180.99.15:81/udp/239.255.43.17:1234
-#EXTINF:-1  group-title="Новостные",ЛДПР ТВ
-http://188.113.190.12/211/index.m3u8
-#EXTINF:-1  group-title="Новостные",ЛДПР ТВ HD
-http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1  group-title="Новостные",Липецкое Время
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Между.Net HD
-http://212.77.128.179:8089/www_mezhdunet/mezhdunet/chunks.m3u8
-#EXTINF:-1  group-title="Новостные",Мир 24
-http://176.114.128.43:81/udp/239.100.2.55:1234
-#EXTINF:-1  group-title="Новостные",МИР 24
-http://strm.yandex.ru/kal/mir24/mir240_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1  group-title="Новостные",МИР 24 HD
-http://195.191.208.2:8086/udp/233.170.170.114:58631
-#EXTINF:-1  group-title="Новостные",МИР HD (Premium)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Мир Белогорья
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Новостные",МИР Премиум
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Новостные",Москва 24
-http://144.76.199.108:8000/play/a030/index.m3u8?auth=test:1234
-#EXTINF:-1  group-title="Новостные",Москва 24 HD
-https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Новостные",Москва-24
-http://spacetv.in/stream/DVB2D6AE8CU/67.m3u8
-#EXTINF:-1  group-title="Новостные",Настоящее время
-http://195.34.74.6:8020/nastvremya
-#EXTINF:-1  group-title="Новостные",Настоящее Время
-http://dmitry-tv.ru/his/CH_NVREMYA.m3u8
-#EXTINF:-1  group-title="Новостные",НАСТОЯЩЕЕ ВРЕМЯ
-http://bk2-hls.kinoplayer.co/hls/nastoyaschee-prestuplenie-1999_hd/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",НАСТОЯЩЕЕ ВРЕМЯ [FHD]
-http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="Новостные",НАСТОЯЩЕЕ ВРЕМЯ [HD]
-http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/986/index.m3u8
-#EXTINF:-1  group-title="Новостные",НАСТОЯЩЕЕ ВРЕМЯ [SD]
-http://92.43.140.249/s61/04.m3u8
-#EXTINF:-1  group-title="Новостные",НАСТОЯЩЕЕ ВРЕМЯ 1
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0540_av-b.m3u8
-#EXTINF:-1  group-title="Новостные",Настоящее Время HD
-http://178.150.0.32:8081/udp/238.0.0.254:1234
-#EXTINF:-1  group-title="Новостные",НАСТОЯЩЕЕ ВРЕМЯ HD
-http://188.35.9.11:21031/udp/053c
-#EXTINF:-1  group-title="Новостные",НАСТОЯЩЕЕ ВРЕМЯ HD 720
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1  group-title="Новостные",Наш Дом (Пенза)
-http://188.35.9.11:21161/udp/187u
-#EXTINF:-1  group-title="Новостные",НВК Саха
-http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Ника TV (Калуга)
-http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Новостные",ННТВ(Нижний Новгород)
-http://144.76.199.108:8000/play/a032/index.m3u8?auth=test:1234
-#EXTINF:-1  group-title="Новостные",Новосибирские новости
-https://rt-cache1.peers.tv/streaming/nsknews/16/tvrec/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Ноябрьск 24
-http://144.76.199.108:8000/play/a036/index.m3u8?auth=test:1234
-#EXTINF:-1 group-title="Новостные",НТВ HD
-http://spacetv.in/stream/DVB2D6AE8CU/134.m3u8
-#EXTINF:-1  group-title="Новостные",НТС (Севастополь)
-http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",ОТВ 24
-http://dmitry-tv.my1.ru/his/yatv/CH_OTV24.m3u8
-#EXTINF:-1 group-title="Новостные",Первый Канал  HD
-http://spacetv.in/stream/DVB2D6AE8CU/131.m3u8
-#EXTINF:-1  group-title="Новостные",Первый канал (Евразия)
-http://dmitry-tv.ru/his/CH_1TV_EVRAZIYA_KZ.m3u8
-#EXTINF:-1 group-title="Новостные",Первый канал HD (+4)
-http://spacetv.in/stream/DVB2D6AE8CU/233.m3u8
-#EXTINF:-1  group-title="Новостные",Первый Метео
-http://178.16.180.133:9999/play/a07o
-#EXTINF:-1  group-title="Новостные",Первый МЕТЕО
-http://78.111.93.102:53022/udp/225.101.17.21:1234
-#EXTINF:-1  group-title="Новостные",ПЕРШИЙ ЗАХIДНИЙ
-http://195.34.74.6:8084/1zahid
-#EXTINF:-1  group-title="Новостные",ПЕРШИЙ ЗАХІДНИЙ
-http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/chunklist_w406301318.m3u8
-#EXTINF:-1  group-title="Новостные",ПЕРШИЙ ЗАХОДНИЙ
-http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Погода Москва
-https://strm.yandex.ru/kal/weather_moscow/weather_moscow0.m3u8
-#EXTINF:-1  group-title="Новостные",Погода Санкт-Петербург
-https://strm.yandex.ru/kal/weather_saint_petersburg/weather_saint_petersburg0.m3u8
-#EXTINF:-1  group-title="Новостные",Про бизнес
-http://78.107.250.103:4000/udp/233.33.210.89:5050
-#EXTINF:-1  group-title="Новостные",Про Бизнес
-http://dmitry-tv.my1.ru/his/yatv/CH_PROBIZNES.m3u8
-#EXTINF:-1  group-title="Новостные",ПРЯМИЙ (UA)
-http://95.67.21.100/hls/prm_ua_low/index.m3u8
-#EXTINF:-1  group-title="Новостные",ПРЯМИЙ HD
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1  group-title="Новостные",Прямой
-http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
-#EXTINF:-1  group-title="Новостные",ПРЯМЫЙ
-http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1  group-title="Новостные",Пятница HD
-http://fr01.spr24.net/213/index.m3u8?token=rCEqTFvRhtEvXt
-#EXTINF:-1  group-title="Новостные",Радио ГОВОРИТ МОСКВА
-http://video.govoritmoskva.ru:8080/live/rufmbk-1/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="Новостные",РБК
-http://128.69.110.150:4022/udp/233.33.210.90:5050
-#EXTINF:-1 group-title="Новостные",РБК ТВ
-http://spacetv.in/stream/DVB2D6AE8CU/105.m3u8
-#EXTINF:-1  group-title="Новостные",РЖД ТВ
-http://85.143.191.135/42/fe072cdfc3a6db442df1de456fee4b4fbd429d76/272/stream.m3u8
-#EXTINF:-1  group-title="Новостные",РЖД ТВ HD
-http://188.113.190.12/229/video.m3u8
-#EXTINF:0 tvg-name="http://uiptv.do.am/img/logo/002.gif" tvg-logo="http://uiptv.do.am/img/logo/002.gif"  group-title="Новостные",Россия 1
-http://uiptv.do.am/1ufc/000000002/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Россия 1 (Сочи)
-http://rt-sth-krdar-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_ROSSIA1_SCH/variant.m3u8?version=2
-#EXTINF:-1  group-title="Новостные",Россия 1 +2
-https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
-#EXTINF:-1  group-title="Новостные",Россия 1 +4
-http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8?version=2&offset=-1
-#EXTINF:-1  group-title="Новостные",Россия 1 +6
-http://rt-sib-chita-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8?version=2&offset=-1
-#EXTINF:-1  group-title="Новостные",Россия 1 +8
-http://188.113.190.12/2/video.m3u8
-#EXTINF:-1 group-title="Новостные",Россия 24
-http://spacetv.in/stream/DVB2D6AE8CU/139.m3u8
-#EXTINF:-1  group-title="Новостные",Россия 24 (Сочи)
-http://109.235.186.53:8080/cam_256/index.m3u8
-#EXTINF:-1  group-title="Новостные",Россия К
-http://178.163.1.77:4022/udp/234.0.0.202:2000
-#EXTINF:-1  group-title="Новостные",Россия РТР
-http://212.112.101.69:8081/stream06/output.m3u8
-#EXTINF:-1  group-title="Новостные",Россия-24
-http://79.135.71.195:8004
-#EXTINF:-1  group-title="Новостные",Ростов-папа HD
-http://dmitry-tv.my1.ru/his/yatv/CH_ROSTOVPAPAHD.m3u8
-#EXTINF:-1  group-title="Новостные",Санкт-Петербург
-http://178.16.180.133:9999/play/a0l5
-#EXTINF:-1  group-title="Новостные",Саратов 24
-http://ott-cdn.ucom.am/s38/03.m3u8
-#EXTINF:-1  group-title="Новостные",Север ТВ (Нарьян-Мар)
-http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Сургут 24
-http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8?version=2
-#EXTINF:-1  group-title="Новостные",Сургут 24 +2
-http://144.76.199.108:8000/play/a03x/index.m3u8?auth=test:1234
-#EXTINF:-1  group-title="Новостные",Татарстан 24
-http://a775797930-rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/playlist.m3u8?version=2
-#EXTINF:-1  group-title="Новостные",ТВР 24   (Сергиев Посад)
-http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
-#EXTINF:-1  group-title="Новостные",Телеканал 360
-http://dmitry-tv.ru/his/CH_TV86.m3u8
-#EXTINF:-1  group-title="Новостные",ТКР (Рязань)
-http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/240/index.m3u8
-#EXTINF:-1  group-title="Новостные",ТНВ Планета
-http://176.114.128.43:81/udp/239.100.2.43:1234
-#EXTINF:-1  group-title="Новостные",ТРК Евразия
-http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1  group-title="Новостные",Тюменское Время +2
-http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Новостные",УНИАН
-http://178.165.68.39:7781/udp/239.2.1.44:1234
-#EXTINF:-1  group-title="Новостные",УНІАН ТВ
-http://bdhwg0cr.ottclub.xyz/iptv/H8PKZNSCSE7W75/1023/index.m3u
-#EXTINF:-1  group-title="Новостные",УрФО 24 HD +2
-http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8
-#EXTINF:-1  group-title="Новостные",Хабар 24
-http://dmitry-tv.my1.ru/his/yatv/CH_KHABAR24.m3u8
-#EXTINF:-1  group-title="Новостные",ЧГТРК Грозный
-http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/855/index.m3u8
-#EXTINF:-1  group-title="Новостные",Щелковское ТВ
-http://185.76.145.71/live.m3u8
-#EXTINF:-1  group-title="Новостные",Эхо ТВ 24 (Новоуральск)
-http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
-#EXTINF:-1  group-title="Новостные",Югра ТВ (Ханты-Мансийск) +2
-http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Новостные",Юнион
-http://185.114.136.25:80/union
-#EXTINF:-1  group-title="Новостные",Якутия 24
-http://144.76.199.108:8000/play/a04h/index.m3u8?auth=test:1234
-#EXTINF:-1  group-title="Познавательные",Fine Living
-http://70.32.0.9:5000/live/543/playlist.m3u8
-#EXTINF:-1  group-title="Познавательные",Fine Living
-http://ott-cdn.ucom.am/s51/01.m3u8
-#EXTINF:-1  group-title="Познавательные",Fine Living
-http://ott-cdn.ucom.am/s51/03.m3u8
-#EXTINF:-1  group-title="Познавательные",Fine Living
-http://ott-cdn.ucom.am/s51/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Fine living HD
-http://spacetv.in/stream/DVB2D6AE8CU/273.m3u8
-#EXTINF:-1  group-title="Познавательные",Fine living HD
-http://85.143.191.135/42/fe072cdfc3a6db442df1de456fee4b4fbd429d76/111/stream.m3u8
 #EXTINF:-1  group-title="Познавательные",Animal Planet
 http://151.80.59.206/TV/FLASH-TV/n/mac/417.m3u8
 #EXTINF:-1  group-title="Познавательные",Animal Planet
@@ -987,234 +184,58 @@ http://5.129.5.72:81/udp/239.1.17.16:1234
 http://fr01.spr24.net/254/video.m3u8?token=rCEqTFvRhtEvXt
 #EXTINF:-1  group-title="Познавательные",Animal Planet HD
 http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36503.ts
-#EXTINF:-1  group-title="Познавательные",Asia Amazing
-http://37.235.158.42:81/udp/225.50.64.56:1234
-#EXTINF:-1  group-title="Познавательные",Asia Amazing HD
-http://37.235.155.237:81/udp/225.50.64.56:1234
 #EXTINF:-1  group-title="Познавательные",BBC
 http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1  group-title="Познавательные",Big Asia
-http://188.242.14.73:81/udp/239.239.3.45:5239
 #EXTINF:-1  group-title="Познавательные",CGTN Documentary
 http://dmitry-tv.ru/his/CH_CGTNDOC.m3u8
 #EXTINF:-1  group-title="Познавательные",CGTN Русский
 http://dmitry-tv.ru/his/CH_CGTNRUS.m3u8
 #EXTINF:-1  group-title="Познавательные",Discovery Central Europe
 http://dmitry-tv.my1.ru/his/itv_blrus/CH_DISCOVERY_EUROPE.m3u8
-#EXTINF:-1  group-title="Познавательные",LOVE NATURE 4K HD
-http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
-#EXTINF:-1  group-title="Познавательные",LOVE NATURE 4K QHD
-http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSQHD.m3u8
-#EXTINF:-1  group-title="Познавательные",LOVE NATURE 4K UHD
-http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
-#EXTINF:-1  group-title="Познавательные",Investigation Discovery
-http://178.16.180.133:9999/play/a0ay
 #EXTINF:-1  group-title="Познавательные",Nat Geo Wild
 http://158.46.115.68:81/udp/239.255.42.36:1234
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
 http://spacetv.in/stream/DVB2D6AE8CU/149.m3u8
 #EXTINF:-1  group-title="Познавательные",National Geographik
 http://188.35.9.11:21141/udp/180c
-#EXTINF:-1  group-title="Познавательные",Ocean TV
-http://176.114.128.43:81/udp/239.100.2.89:1234
-#EXTINF:-1  group-title="Познавательные",Ocean TV HD
-http://dmitry-tv.ru/his/CH_OCEANTVHD.m3u8
-#EXTINF:-1  group-title="Познавательные",RTG
-http://37.235.158.42:81/udp/225.50.64.97:1234
-#EXTINF:-1  group-title="Познавательные",Sochi Live HD
-http://dmitry-tv.my1.ru/his/yatv/CH_SOCHILIVEHD.m3u8
-#EXTINF:-1  group-title="Познавательные",This is Bulgaria HD
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1  group-title="Познавательные",Travel + Adventure
 https://tinyurl.com/v7glc8f/travel_and_adv/normal/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat History
 http://spacetv.in/stream/DVB2D6AE8CU/101.m3u8
 #EXTINF:-1  group-title="Познавательные",Viasat Explorer
 http://158.46.126.41:81/udp/239.255.42.41:1234
-#EXTINF:-1  group-title="Познавательные",ZOO TV
-http://176.222.255.187:81/udp/239.254.2.25:1234?deooleg
-#EXTINF:-1 group-title="Познавательные",Авто 24
-http://spacetv.in/stream/DVB2D6AE8CU/78.m3u8
-#EXTINF:-1 group-title="Познавательные",Авто Плюс
-http://spacetv.in/stream/DVB2D6AE8CU/186.m3u8
-#EXTINF:-1  group-title="Познавательные",Дайвинг TV
-https://strm.yandex.ru/kal/diving_supres/diving_supres0.m3u8
-#EXTINF:-1 group-title="Познавательные",Диалоги о рыбалке
-http://spacetv.in/stream/DVB2D6AE8CU/264.m3u8
-#EXTINF:-1  group-title="Познавательные",Диалоги о рыбалке HD
-https://plbl.m9.lfstrm.tv/dialogi_o_ribalke_hd/normal/index.m3u8
-#EXTINF:-1  group-title="Познавательные",Домашние Животные
-http://176.222.255.187:81/udp/239.254.2.94:1234?deooleg
 #EXTINF:-1  group-title="Познавательные",Драйв
 http://128.69.110.150:4022/udp/233.33.220.191:5050
-#EXTINF:-1  group-title="Познавательные",Живая Планета
-http://188.113.190.12/89/video.m3u8
-#EXTINF:-1 group-title="Познавательные",Живая природа HD
-http://spacetv.in/stream/DVB2D6AE8CU/225.m3u8
-#EXTINF:-1  group-title="Познавательные",Загородняя Жизнь
-http://188.113.190.12/123/index.m3u8
-#EXTINF:-1  group-title="Познавательные",Загородный
-http://92.43.140.200/s31/index.m3u8
-#EXTINF:-1  group-title="Познавательные",Загородный HD
-http://strm.yandex.ru/kal/zagorod/zagorod0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Познавательные",Моя Планета
-http://spacetv.in/stream/DVB2D6AE8CU/124.m3u8
-#EXTINF:-1  group-title="Познавательные",Моя Планета HD
-http://78.111.93.102:53022/udp/233.166.172.186:1234
-#EXTINF:-1  group-title="Познавательные",Наша Сибирь
-http://strm.yandex.ru/kal/sibir/sibir0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1  group-title="Познавательные",Наша Сибирь HD
-https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1  group-title="Познавательные",Неизвестная планета
-http://dmitry-tv.my1.ru/his/yatv/CH_UNKNOWN_PLANET.m3u8
-#EXTINF:-1  group-title="Познавательные",Неизвестная планета HD
-https://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Познавательные",Охота и Рыбалка
-http://spacetv.in/stream/DVB2D6AE8CU/155.m3u8
-#EXTINF:-1  group-title="Познавательные",Oхотник и Рыболов HD
-http://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Познавательные",Приключения HD
-http://spacetv.in/stream/DVB2D6AE8CU/198.m3u8
-#EXTINF:-1 group-title="Познавательные",Оружие
-http://spacetv.in/stream/DVB2D6AE8CU/203.m3u8
-#EXTINF:-1  group-title="Познавательные",Бобёр
-http://151.80.59.206/TV/FLASH-TV/n/mac/634.m3u8
 #EXTINF:-1  group-title="Познавательные",Discovery Science
 http://178.217.72.66/225.201.2.75/index.m3u8
-#EXTINF:-1  group-title="Познавательные",RTД HD
-http://37.235.139.205:81/udp/225.50.64.17:1234
-#EXTINF:-1  group-title="Познавательные",Большая Азия HD
-http://178.163.18.154:4022/udp/234.0.0.10:2000
-#EXTINF:-1 group-title="Познавательные",В мире животных HD
-http://spacetv.in/stream/DVB2D6AE8CU/241.m3u8
-#EXTINF:-1 group-title="Познавательные",Дикая охота HD
-http://spacetv.in/stream/DVB2D6AE8CU/274.m3u8
-#EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
-http://spacetv.in/stream/DVB2D6AE8CU/275.m3u8
-#EXTINF:-1  group-title="Познавательные",Дикий
-http://178.16.180.133:9999/play/a0m0
-#EXTINF:-1  group-title="Познавательные",Домашние животные
-http://178.16.180.133:9999/play/a0c7
-#EXTINF:-1  group-title="Познавательные",Еда Премиум HD
-http://dmitry-tv.my1.ru/his/itv_blrus/CH_EDAPREMIUMHD.m3u8
-#EXTINF:-1  group-title="Познавательные",Загородная жизнь
-http://176.114.128.43:81/udp/239.100.2.69:1234
-#EXTINF:-1  group-title="Познавательные",Загородный Int HD
-http://dmitry-tv.my1.ru/his/yatv/CH_ZAGORODNY_INTHD.m3u8
 #EXTINF:-1 group-title="Познавательные",История
 http://spacetv.in/stream/DVB2D6AE8CU/228.m3u8
-#EXTINF:-1  group-title="Познавательные",Конный мир HD
-http://78.111.93.102:53022/udp/225.101.64.2:1234
-#EXTINF:-1 group-title="Познавательные",Кухня ТВ
-http://spacetv.in/stream/DVB2D6AE8CU/179.m3u8
-#EXTINF:-1  group-title="Познавательные",МИР Premium HD
-http://195.191.208.2:8086/udp/233.170.170.113:58631
-#EXTINF:-1  group-title="Познавательные",Моя планета
-http://176.222.255.187:81/udp/239.254.2.61:1234?deooleg
 #EXTINF:-1  group-title="Познавательные",Наука
 http://178.163.127.248:4022/udp/234.0.0.226:2000
-#EXTINF:-1  group-title="Познавательные",Неизвестная Планета
-http://dmitry-tv.ru/his/yatv/CH_UNKNOWN_PLANET.m3u8
-#EXTINF:-1  group-title="Познавательные",Охота и рыбалка
-http://176.222.255.187:81/udp/239.254.2.18:1234?deooleg
-#EXTINF:-1 group-title="Познавательные",Охотник и рыболов HD
-http://spacetv.in/stream/DVB2D6AE8CU/194.m3u8
-#EXTINF:-1  group-title="Познавательные",Охотник и рыболов Int HD
-http://dmitry-tv.my1.ru/his/yatv/CH_OHOTNIKIRYBOLOV_INTHD.m3u8
-#EXTINF:-1  group-title="Познавательные",Парк Патриот HD
-http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Планета HD
-http://spacetv.in/stream/DVB2D6AE8CU/115.m3u8
-#EXTINF:-1  group-title="Познавательные",Совершенно секретно
-http://151.0.48.26:8080/ch0032
 #EXTINF:-1  group-title="Познавательные",ТЕХНО 24
 http://176.114.128.43:81/udp/239.100.8.6:1234
-#EXTINF:-1  group-title="Познавательные",Тномер
-http://188.113.190.12/225/video.m3u8
-#EXTINF:-1  group-title="Познавательные",Точка ТВ
-http://178.159.52.230:34040/udp/239.255.11.52:1234
-#EXTINF:-1  group-title="Познавательные",Усадьба ТВ
-http://176.197.77.101:81/udp/239.255.42.19:1234
-#EXTINF:-1 group-title="Познавательные",Эврика HD
-http://spacetv.in/stream/DVB2D6AE8CU/212.m3u8
 #EXTINF:-1  group-title="Познавательные",Animal Planet HD
 http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/42799.ts
-#EXTINF:-1  group-title="Познавательные",Da Vinci
-http://37.195.214.54:81/udp/239.1.5.6:1234
 #EXTINF:-1 group-title="Познавательные",Discovery Science HD
 http://spacetv.in/stream/DVB2D6AE8CU/146.m3u8
 #EXTINF:-1  group-title="Познавательные",Discovery Showcase HD
 http://nl01.spr24.net/22964/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1  group-title="Познавательные",Docubox
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8
-#EXTINF:-1  group-title="Познавательные",DTX
-http://188.113.190.12/36/video.m3u8
-#EXTINF:-1  group-title="Познавательные",DTX HD
-http://85.143.191.135/42/fe072cdfc3a6db442df1de456fee4b4fbd429d76/82/stream.m3u8
-#EXTINF:-1  group-title="Познавательные",E
-http://158.46.126.41:81/udp/239.255.42.200:1234
-#EXTINF:-1  group-title="Познавательные",Food Network
-http://158.46.115.68:81/udp/239.255.42.201:1234
-#EXTINF:-1  group-title="Познавательные",H2 HD
-https://plbl.m9.lfstrm.tv/history_h2_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:-1  group-title="Познавательные",HDL
-http://37.235.139.11:81/udp/225.50.71.2:1234
-#EXTINF:-1  group-title="Познавательные",History HD
-http://5.2.44.217:81/udp/239.254.2.159:1234
-#EXTINF:-1  group-title="Познавательные",ID Xtra
-http://217.21.34.158:30000/ID_Xtra/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
 http://spacetv.in/stream/DVB2D6AE8CU/116.m3u8
-#EXTINF:-1  group-title="Познавательные",RTG HD
-http://217.21.34.158:30000/RTGHD/index.m3u8
-#EXTINF:-1  group-title="Познавательные",TLC HD
-http://151.80.59.206/TV/FLASH-TV/n/mac/698.m3u8
-#EXTINF:-1 group-title="Познавательные",Travel Channel HD
-http://spacetv.in/stream/DVB2D6AE8CU/231.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
 http://spacetv.in/stream/DVB2D6AE8CU/239.m3u8
 #EXTINF:-1  group-title="Познавательные",Viasat Nature
 http://176.222.255.187:81/udp/239.254.2.172:1234?deooleg
-#EXTINF:-1  group-title="Познавательные",Живи!
-http://188.35.9.26:11031/udp/145m
-#EXTINF:-1  group-title="Познавательные",Зоо ТВ
-http://188.43.116.250:8080/zoo_tv/index.m3u8
-#EXTINF:-1  group-title="Познавательные",Калейдоскоп ТВ
-http://178.163.45.87:4022/udp/234.0.0.1:2000
-#EXTINF:-1  group-title="Познавательные",Психология 21
-http://176.222.255.187:81/udp/239.254.2.93:1234?deooleg
-#EXTINF:-1 group-title="Познавательные",365 дней ТВ
-http://spacetv.in/stream/DVB2D6AE8CU/70.m3u8
-#EXTINF:-1  group-title="Познавательные",Ocean-TV
-http://178.16.180.133:9999/play/a0jz
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://spacetv.in/stream/DVB2D6AE8CU/90.m3u8
 #EXTINF:-1  group-title="Познавательные",Viasat History HD
 http://176.222.255.187:81/udp/239.254.2.52:1234?deooleg
 #EXTINF:-1  group-title="Познавательные",Viasat Explore HD
 https://user11183.clients-cdnnow.ru/hls/Viasat_Explore_HD/master.m3u8
-#EXTINF:-1  group-title="Познавательные",ТАЙНА
-http://188.35.9.26:7030/udp/126p
 #EXTINF:-1  group-title="Познавательные",Discovery Channel
 http://178.217.72.66/225.201.2.88/index.m3u8
 #EXTINF:-1  group-title="Познавательные",Viasat Nature HD
 http://188.35.9.11:21071/udp/078s
-#EXTINF:-1 group-title="Познавательные",Food Network HD
-http://spacetv.in/stream/DVB2D6AE8CU/298.m3u8
-#EXTINF:-1  group-title="Познавательные",Love Nature 4K
-http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
-#EXTINF:-1  group-title="Познавательные",HOME 4K
-http://nl01.spr24.net/17445/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Познавательные",Outdoor Channel HD
-http://spacetv.in/stream/DVB2D6AE8CU/211.m3u8
-#EXTINF:-1  group-title="Познавательные",Docubox HD
-http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/968/index.m3u8
-#EXTINF:-1  group-title="Познавательные",Galaxy
-http://noname.do.am/z/low/galaxy.m3u8
-#EXTINF:-1  group-title="Познавательные",Luxury
-http://182.73.122.74:10004/bysid/1108
-#EXTINF:-1  group-title="Познавательные",Nano TV
-http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1  group-title="Познавательные",ANIMAL PLANET HD
 http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/45141.ts
 #EXTINF:-1  group-title="Познавательные",DISCOVERY SCIENCE FHD
@@ -1229,8 +250,6 @@ http://aa826ad7.iptvspy.me/iptv/AUWAUBYRPMAHLZ/136/index.m3u8
 http://cloudcdn.tk:80/live/yB0GRnn4629/n9MJYo37/7578.ts
 #EXTINF:-1  group-title="Познавательные",Discovery Showcase Europe HD
 http://85.143.191.135/42/fe072cdfc3a6db442df1de456fee4b4fbd429d76/83/stream.m3u8
-#EXTINF:-1  group-title="Познавательные",FOOD NETWORK HD
-http://176.222.255.187:81/udp/239.254.2.5:1234?deooleg
 #EXTINF:-1  group-title="Познавательные",HISTORY [FHD]
 http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/231/index.m3u8
 #EXTINF:-1  group-title="Познавательные",HISTORY FHD
@@ -1263,74 +282,20 @@ http://37.194.169.235:81/udp/239.1.5.8:1234
 http://109.95.47.249:12284/813
 #EXTINF:-1  group-title="Познавательные",NAYKA
 http://178.159.52.230:34040/udp/239.255.11.25:1234
-#EXTINF:-1  group-title="Познавательные",OHOTA I RYBALKA
-http://185.184.233.174:5000/udp/225.1.2.116:1234
 #EXTINF:-1  group-title="Познавательные",VIASAT NATURE FHD
 http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/65541.ts
 #EXTINF:-1  group-title="Познавательные",VIASAT NATURE FHD *
 http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/65659.ts
 #EXTINF:-1  group-title="Познавательные",VIASAT SPORT HD
 http://128.69.110.150:4022/udp/233.33.221.31:5050
-#EXTINF:-1  group-title="Познавательные",АВТО 24
-http://176.222.255.187:81/udp/239.254.2.169:1234?deooleg
-#EXTINF:-1  group-title="Познавательные",АВТО24
-http://178.163.1.77:4022/udp/234.0.0.227:2000
-#EXTINF:-1  group-title="Познавательные",НАУКА
-http://178.163.20.50:4022/udp/234.0.0.226:2000
-#EXTINF:-1 group-title="Познавательные",НАУКА 2.0
-http://spacetv.in/stream/DVB2D6AE8CU/125.m3u8
-#EXTINF:-1  group-title="Познавательные",НАУКА2.0
-http://176.222.255.187:81/udp/239.254.2.146:1234?deooleg
-#EXTINF:-1  group-title="Познавательные",НОВЫЙ КАНАЛ
-http://195.162.90.141:8080/4026dbea94ac76a026fcb2d79e4289dc
-#EXTINF:-1  group-title="Познавательные",ОХОТА И РЫБАЛКА
-http://178.163.1.77:4022/udp/234.0.0.230:2000
 #EXTINF:-1  group-title="Познавательные",Discovery
 http://aa826ad7.iptvspy.me/iptv/AUWAUBYRPMAHLZ/140/index.m3u8
-#EXTINF:-1  group-title="Познавательные",Совершенно Секретно
-http://178.163.1.77:4022/udp/234.0.0.185:2000
 #EXTINF:-1  group-title="Познавательные",Техно-24
 http://37.193.15.66:81/udp/239.1.5.10:1234
-#EXTINF:-1  group-title="Познавательные",ЭВРИКА
-http://ott-cdn.ucom.am/s44/01.m3u8
-#EXTINF:-1  group-title="Познавательные",Zooпарк
-http://178.163.18.154:4022/udp/234.0.0.216:2000
-#EXTINF:-1  group-title="Познавательные",NHK World
-http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel+ Adventure HD
 http://spacetv.in/stream/DVB2D6AE8CU/206.m3u8
-#EXTINF:-1  group-title="Познавательные",Outdoor channel
-http://178.16.180.133:9999/play/a01a
-#EXTINF:-1  group-title="Познавательные",FoodMan Club
-http://strm.yandex.ru/kal/joycook_supres/joycook_supres0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1  group-title="Познавательные",Nasa TV HD
-http://37.235.254.189:81/udp/225.50.71.27:1234
-#EXTINF:-1  group-title="Познавательные",Рифей-ТВ
-http://144.76.199.108:8000/play/a00i/index.m3u8?auth=test:1234
 #EXTINF:-1  group-title="Познавательные",Discovery HD
 http://46.160.166.9:81/udp/239.254.2.150:1234
-#EXTINF:-1  group-title="Познавательные",DocuBox HD
-http://nl01.spr24.net/332/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1  group-title="Познавательные",Eureka HD
-http://85.143.191.135/42/fe072cdfc3a6db442df1de456fee4b4fbd429d76/89/stream.m3u8
-#EXTINF:-1  group-title="Познавательные",HD Life
-http://dmitry-tv.my1.ru/his/yatv/CH_HDMEDIAHD_720.m3u8
-#EXTINF:-1  group-title="Познавательные",History
-http://188.113.190.12/189/video.m3u8
-#EXTINF:-1  group-title="Познавательные",Travel+Adventure HD
-https://rt-cache1.peers.tv/streaming/travel_adventure_hd/16/copy/playlist.m3u8
-#EXTINF:-1  group-title="Познавательные",Глазами Туриста HD
-http://nl01.spr24.net/252/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1  group-title="Познавательные",Диалоги о Рыбалке
-http://178.16.180.133:9999/play/a0ca
-#EXTINF:-1  group-title="Познавательные",Живая Природа HD
-http://streamer.sktv.peers.tv/streaming/zhivaya_priroda/364/copy/playlist.m3u8
-#EXTINF:-1  group-title="Познавательные",Наука 2.0
-http://178.163.45.64:4022/udp/234.0.0.226:2000
-#EXTINF:-1  group-title="Познавательные",Охотник и Рыболов HD
-http://178.163.127.248:4022/udp/234.0.0.98:2000
-#EXTINF:-1  group-title="Познавательные",Усадьба
-http://178.163.127.248:4022/udp/234.0.0.220:2000
 #EXTINF:-1 group-title="Познавательные",24 ТЕХНО
 http://spacetv.in/stream/DVB2D6AE8CU/209.m3u8
 #EXTINF:-1  group-title="Познавательные",24ТЕХНО
@@ -1347,30 +312,6 @@ http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/47952.ts
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48315.m3u8
 #EXTINF:-1  group-title="Познавательные",ANIMAL PLANET..
 http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48882.ts
-#EXTINF:-1  group-title="Познавательные",AVTO24
-http://185.184.233.174:5000/udp/225.1.2.138:1234
-#EXTINF:-1  group-title="Познавательные",АВТО 24
-http://178.163.17.248:4022/udp/234.0.0.227:2000
-#EXTINF:-1  group-title="Познавательные",АВТО 24
-http://178.163.18.154:4022/udp/234.0.0.227:2000
-#EXTINF:-1  group-title="Познавательные",АВТО 24 HD
-https://tinyurl.com/v7glc8f/auto_plus/normal/1/index.m3u8
-#EXTINF:-1  group-title="Познавательные",PAT PLUS
-https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist.m3u8
-#EXTINF:-1  group-title="Познавательные",АВТО ПЛЮС
-http://176.114.128.127:81/udp/239.100.8.9:1234
-#EXTINF:-1  group-title="Познавательные",АВТО ПЛЮС [SD]
-http://185.184.233.174:5000/udp/225.1.2.177:1234?zona-iptv.ru
-#EXTINF:-1  group-title="Познавательные",ДАЧА
-http://185.189.184.7:8888/dacha/index.m3u8?token=test
-#EXTINF:-1  group-title="Познавательные",ДИАЛОГИ О РЫБАЛКЕ
-http://188.35.9.11:21081/udp/118i
-#EXTINF:-1  group-title="Познавательные",ДИКАЯ ОХОТА HD
-http://188.35.9.11:21111/udp/180l
-#EXTINF:-1  group-title="Познавательные",ДИКАЯ РЫБАЛКА HD
-http://37.235.140.114:81/udp/225.50.71.9:1234
-#EXTINF:-1  group-title="Познавательные",ДИКИЙ
-http://37.235.140.114:81/udp/225.50.64.51:1234
 #EXTINF:-1  group-title="Познавательные",DISCOVERY CHANNEL
 http://188.113.190.12/88/video.m3u8
 #EXTINF:-1  group-title="Познавательные",DISCOVERY-CHANNEL
@@ -1405,22 +346,6 @@ http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/24885.ts
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2117.m3u8
 #EXTINF:-1  group-title="Познавательные",TP DISCOVERY TURBO
 http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/30842.ts
-#EXTINF:-1  group-title="Познавательные",ED TV
-https://593b04c4c5670.streamlock.net/8070/8070/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",ЕДА HD
-http://spacetv.in/stream/DVB2D6AE8CU/216.m3u8
-#EXTINF:-1  group-title="Познавательные",FAN TV
-http://37.235.158.42:81/udp/225.50.64.16:1234
-#EXTINF:-1  group-title="Познавательные",ФАУНА
-http://185.189.184.7:8888/Fauna/index.m3u8?token=test
-#EXTINF:-1  group-title="Познавательные",FOOD NETWORK
-http://176.197.77.101:81/udp/239.255.42.201:1234
-#EXTINF:-1  group-title="Познавательные",FOOD NETWORK HD
-http://85.143.191.135/42/fe072cdfc3a6db442df1de456fee4b4fbd429d76/121/stream.m3u8
-#EXTINF:-1  group-title="Познавательные",TP FOOD NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/30858.ts
-#EXTINF:-1  group-title="Познавательные",EXP HISTORY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/54941.ts
 #EXTINF:-1  group-title="Познавательные",HISTORIA
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/36382.m3u8
 #EXTINF:-1  group-title="Познавательные",HISTORIA HD
@@ -1437,16 +362,6 @@ http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/1104.ts
 http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/837/index.m3u8
 #EXTINF:-1  group-title="Познавательные",HISTORY [FHD]
 http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/49234.ts
-#EXTINF:-1  group-title="Познавательные",CTV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44121.ts
-#EXTINF:-1  group-title="Познавательные",K16
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1  group-title="Познавательные",МЕГА
-http://193.46.210.28/stream/my2jtnqu9uztd47f37invhut6taz8n99cxse3dzjsmxdkq8awbf7dy8bkugaxwmiefkk9dxvbhs5y9dw2udetsath8pkdjvwv2x56qapzsb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-#EXTINF:-1  group-title="Познавательные",МУЖСКОЙ
-http://176.222.255.187:81/udp/239.254.2.75:1234?deooleg
-#EXTINF:-1  group-title="Познавательные",МУЖСКОЙ [SD]
-https://rt-cache1.peers.tv/streaming/muzhskoj/126/tvrec/playlist.m3u8
 #EXTINF:-1  group-title="Познавательные",NAT GEO
 http://46.160.166.9:81/udp/239.254.2.6:1234
 #EXTINF:-1  group-title="Познавательные",NAT GEO HD
@@ -1511,56 +426,10 @@ http://178.163.82.113:4022/udp/234.0.0.226:2000
 http://185.184.233.174:5000/udp/225.1.2.144:1234
 #EXTINF:-1  group-title="Познавательные",NLO TV
 http://188.35.9.11:21141/udp/175d
-#EXTINF:-1  group-title="Познавательные",ОХОТА И РЫБАЛКА
-http://178.163.127.248:4022/udp/234.0.0.230:2000
-#EXTINF:-1  group-title="Познавательные",ОХОТА И РЫБАЛКА
-http://37.235.196.38:81/udp/225.50.64.104:1234
-#EXTINF:-1  group-title="Познавательные",ОХОТНИК И РЫБОЛОВ
-http://176.222.255.187:81/udp/239.254.2.35:1234?deooleg
-#EXTINF:-1  group-title="Познавательные",ОХОТНИК И РЫБОЛОВ HD
-http://178.163.20.50:4022/udp/234.0.0.98:2000
-#EXTINF:-1  group-title="Познавательные",ОРУЖИЕ
-http://176.114.128.43:81/udp/239.100.8.24:1234
-#EXTINF:-1  group-title="Познавательные",ОРУЖИЕ [SD]
-http://178.49.77.88:3371/udp/239.1.2.7:1234
 #EXTINF:-1  group-title="Познавательные",ПЕРВЫЙ АВТОМОБИЛЬНЫЙ
 http://141.105.128.174:10001/pershiy_avtomobil/index.m3u8
-#EXTINF:-1  group-title="Познавательные",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
-http://158.46.115.68:81/udp/239.255.42.178:1234
-#EXTINF:-1  group-title="Познавательные",MY PLANET
-http://178.159.52.230:34040/udp/239.255.11.24:1234
-#EXTINF:-1  group-title="Познавательные",PLANETA FOLK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48835.ts
-#EXTINF:-1  group-title="Познавательные",PLANETE
-http://188.35.9.26:8031/udp/086y
-#EXTINF:-1  group-title="Познавательные",PLANETE+
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/25044.ts
-#EXTINF:-1  group-title="Познавательные",ПЛАНЕТА HD
-http://188.113.190.12/219/video.m3u8
-#EXTINF:-1  group-title="Познавательные",POEHALI
-http://sc.id-tv.kz/poehali_34_35.m3u8
-#EXTINF:-1  group-title="Познавательные",ПРИКЛЮЧЕНИЯ
-http://37.235.155.237:81/udp/225.50.71.3:1234
-#EXTINF:-1  group-title="Познавательные",ПРИКЛЮЧЕНИЯ HD
-http://37.235.139.11:81/udp/225.50.71.3:1234
 #EXTINF:-1  group-title="Познавательные",SILENCE TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Познавательные",TIERRAMIA TV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1  group-title="Познавательные",ТЕРРА
-http://195.138.79.232:4022/udp/239.0.251.44:1234
-#EXTINF:-1  group-title="Познавательные",EXTRA CHANNEL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/42844.ts
-#EXTINF:-1  group-title="Познавательные",PRIVAT CHANNEL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/54942.ts
-#EXTINF:-1  group-title="Познавательные",TRAVEL
-http://178.217.72.66:80/225.201.2.3/video.m3u8
-#EXTINF:-1  group-title="Познавательные",TRAVEL HD
-http://31.13.223.104:1935/travel/community.stream/f1tv.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Познавательные",ТРОФЕЙ
-http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
-#EXTINF:-1  group-title="Познавательные",ТРОФЕЙ HD
-http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_w1068339373_b878000_slukr.m3u8
 #EXTINF:-1  group-title="Познавательные",VIASAT EXPLORE
 http://158.46.115.68:81/udp/239.255.42.41:1234
 #EXTINF:-1  group-title="Познавательные",VIASAT EXPLORE [SD]
@@ -1599,10 +468,6 @@ http://188.35.9.11:2030/udp/035l
 http://78.107.250.103:4000/udp/233.33.221.31:5050
 #EXTINF:-1  group-title="Познавательные",24Техно
 http://188.113.190.12/40/video.m3u8
-#EXTINF:-1  group-title="Познавательные",36.6 TV
-http://bdhwg0cr.ottclub.xyz/iptv/H8PKZNSCSE7W75/1025/index.m3u
-#EXTINF:-1  group-title="Познавательные",365 дней
-https://plbl.m9.lfstrm.tv/365_dney/normal/1/index.m3u8
 #EXTINF:-1  group-title="Познавательные",Animal Planet
 http://178.217.72.66:80/225.201.2.91/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Познавательные",BBC Earth
@@ -1613,198 +478,24 @@ http://spacetv.in/stream/DVB2D6AE8CU/177.m3u8
 http://spacetv.in/stream/DVB2D6AE8CU/90.m3u8
 #EXTINF:-1  group-title="Познавательные",English Club TV HD
 http://84.22.33.218/EnglishClubChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Познавательные",Epoque
-http://193.46.210.28/stream/q7yr4u6p7c2yzkpwtedvqgaxp89nz6ccm7swtkikms526h6v4t6rdrbc8du9f9nehmr725v9kaqqn2uiyytvt5cshaj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/WfTmqjs/V.png"  group-title="Познавательные",H2
-http://ott-cdn.ucom.am/s2/04.m3u8
-#EXTINF:-1  group-title="Познавательные",HDL HD
-http://89.106.234.4:80/hdl_34_35.m3u8
-#EXTINF:-1 tvg-id="7579bc935850d22c49e83f2ddec4e4f3"  group-title="Познавательные",HGTV
-http://220.81.169.165:9981/stream/channelid/331118965?ticket=40279C77967DD8415BD38B550AD07C391AB6321B&profile=pass
 #EXTINF:-1  group-title="Познавательные",History 2 HD
 http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/47942.ts
-#EXTINF:-1  group-title="Познавательные",ID Investigation Discovery
-https://rt-cache1.peers.tv/streaming/investigationdiscovery/16/tvrecw/playlist.m3u8
-#EXTINF:-1 tvg-id="292113b4a62c36340b586b316d003c3e"  group-title="Познавательные",MBC
-http://220.81.169.165:9981/stream/channelid/873668905?ticket=9091DDFFBCE7DBA9F2368CB842DE99D861F1043C&profile=pass
-#EXTINF:-1  group-title="Познавательные",myZen.tv HD
-https://rt-cache1.peers.tv/streaming/myzen_hd/16/copy/playlist.m3u8
-#EXTINF:-1  group-title="Познавательные",Nano
-http://37.235.140.114:81/udp/225.50.71.13:1234
 #EXTINF:-1  group-title="Познавательные",NASA TV
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 #EXTINF:-1  group-title="Познавательные",National Geographic Wild
 http://spacetv.in/stream/DVB2D6AE8CU/149.m3u8
 #EXTINF:-1  group-title="Познавательные",NLO TV 2
 http://bdhwg0cr.ottclub.xyz/iptv/H8PKZNSCSE7W75/1014/index.m3u
-#EXTINF:-1  group-title="Познавательные",Outdoor Channel
-http://85.143.191.135/42/fe072cdfc3a6db442df1de456fee4b4fbd429d76/117/stream.m3u8
-#EXTINF:-1  group-title="Познавательные",Outdoor Channel
-http://188.113.190.12/170/video.m3u8
-#EXTINF:-1  group-title="Познавательные",Outdoor
-http://streams.tv.mts.by/outdoor_channel_hd/1/index.m3u8
-#EXTINF:-1  group-title="Познавательные",Rai Storia
-http://nl01.spr24.net/19146/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1  group-title="Познавательные",RTG TV
-http://188.113.190.12/63/video.m3u8
-#EXTINF:-1 group-title="Познавательные",RTД
-http://spacetv.in/stream/DVB2D6AE8CU/197.m3u8
-#EXTINF:-1 group-title="Познавательные",Russian Travel Guide
-http://spacetv.in/stream/DVB2D6AE8CU/164.m3u8
-#EXTINF:-1  group-title="Познавательные",Travel+Adventure
-http://178.16.180.133:9999/play/a0mt
-#EXTINF:-1  group-title="Познавательные",TVP Historia
-http://188.35.9.11:21111/udp/113k
-#EXTINF:-1  group-title="Познавательные",UA: Культура
-http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
-#EXTINF:-1  group-title="Познавательные",Univer
-http://cdn.universmotri.ru/live/mq.sdp/chunklist_w1403962929.m3u8
 #EXTINF:-1  group-title="Познавательные",Viasat Nature/History HD
 http://91.204.138.87:8888/udp/224.200.234.7:1234
-#EXTINF:-1  group-title="Познавательные",WeatherNation TV
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/chunklist_b2128000.m3u8
-#EXTINF:-1  group-title="Познавательные",Зоопарк
-http://178.16.180.133:9999/play/a0pn
-#EXTINF:-1  group-title="Познавательные",Авто24
-http://178.163.127.248:4022/udp/234.0.0.227:2000
-#EXTINF:-1  group-title="Познавательные",Большая Азия
-http://178.163.1.77:4022/udp/234.0.0.10:2000
 #EXTINF:-1  group-title="Познавательные",В мире животных
 http://spacetv.in/stream/DVB2D6AE8CU/241.m3u8
-#EXTINF:-1  group-title="Познавательные",Дача
-http://193.46.210.28/stream/yga2exg33yrak9jhw8reekfwpsqca9th82rzqvjhwnjkcebv4anguxaypbday53smumyj8f6hcykvhyya47g2y3vfimf6mdxpmcyh4xi8hb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-#EXTINF:-1  group-title="Познавательные",Дикая Охота HD
-http://85.143.191.135/42/fe072cdfc3a6db442df1de456fee4b4fbd429d76/115/stream.m3u8
-#EXTINF:-1  group-title="Познавательные",Дикая Рыбалка HD
-http://37.235.225.176:81/udp/225.50.71.9:1234
-#EXTINF:-1 group-title="Познавательные",Доктор
-http://spacetv.in/stream/DVB2D6AE8CU/80.m3u8
-#EXTINF:-1  group-title="Познавательные",ЕГЭ ТВ
-http://176.222.255.187:81/udp/239.254.3.64:1234?deooleg
-#EXTINF:-1  group-title="Познавательные",Еда Премиум
-http://188.35.9.11:21111/udp/132r
-#EXTINF:-1  group-title="Познавательные",Живая природа
-http://nl01.spr24.net/217/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1  group-title="Познавательные",Загородный Int
-http://dmitry-tv.my1.ru/his/yatv/CH_ZAGORODNY_INT.m3u8
-#EXTINF:-1  group-title="Познавательные",Здоровое ТВ
-http://178.163.17.248:4022/udp/234.0.0.221:2000
-#EXTINF:-1  group-title="Познавательные",Здоровье
-http://158.46.126.41:81/udp/239.255.42.147:1234
-#EXTINF:-1  group-title="Познавательные",Интересное ТВ
-http://195.5.108.14:1935/live/itv1/playlist.m3u8
-#EXTINF:-1  group-title="Познавательные",Контрольная закупка
-https://rt-cache1.peers.tv/streaming/kontrolnaya_zakupka/126/copy_a/playlist.m3u8
-#EXTINF:-1  group-title="Познавательные",Кто есть кто
-http://178.16.180.133:9999/play/a011
-#EXTINF:-1  group-title="Познавательные",Министерство идей
-http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Морской
-http://spacetv.in/stream/DVB2D6AE8CU/141.m3u8
-#EXTINF:-1  group-title="Познавательные",Московский образовательный
-http://retc.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
-#EXTINF:-1  group-title="Познавательные",Наша тема
-http://188.113.190.12/218/video.m3u8
-#EXTINF:-1  group-title="Познавательные",Открытый мир
-http://178.159.52.230:34040/udp/239.255.11.46:1234
-#EXTINF:-1  group-title="Познавательные",Охотник и рыболов
-http://178.163.117.112:4022/udp/234.0.0.98:2000
-#EXTINF:-1  group-title="Познавательные",Охотник и рыболов Int
-http://dmitry-tv.my1.ru/his/yatv/CH_OHOTNIKIRYBOLOV_INT.m3u8
-#EXTINF:-1  group-title="Познавательные",Первый образовательный
-http://178.16.180.133:9999/play/a0jo
-#EXTINF:-1  group-title="Познавательные",Пёс и Ко
-http://37.235.191.107:81/udp/225.50.64.13:1234
-#EXTINF:-1  group-title="Познавательные",Приключения
-http://37.235.156.207:81/udp/225.50.71.3:1234
-#EXTINF:-1  group-title="Познавательные",Просвещение
-http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
-#EXTINF:-1  group-title="Познавательные",Психология21
-http://188.113.190.12/73/video.m3u8
-#EXTINF:-1  group-title="Познавательные",СГДФ 24
-http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8?|User-agent=mx
-#EXTINF:-1  group-title="Познавательные",Сделано в Кузбассе
-https://rt-cache1.peers.tv/streaming/sdelano_v_kuzbasse_hd/16/copy/playlist.m3u8
-#EXTINF:-1  group-title="Познавательные",Синергия ТВ
-http://188.113.190.12/174/video.m3u8
-#EXTINF:-1  group-title="Познавательные",Страна
-http://88.201.130.132:81/udp/239.239.4.69:5239
-#EXTINF:-1  group-title="Познавательные",Театр
-http://176.114.128.43:81/udp/239.100.2.77:1234
-#EXTINF:-1  group-title="Познавательные",Телевсесвіт
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TELEDOM_SPB.m3u8
-#EXTINF:-1  group-title="Познавательные",Телепутешествия
-http://92.43.140.200/s71/index.m3u8
-#EXTINF:-1  group-title="Познавательные",Терра
-http://195.138.81.101:8081/hls_sec/239.0.251.44-.m3u8
-#EXTINF:-1  group-title="Познавательные",Терра Инкогнита
-https://strm.yandex.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1  group-title="Познавательные",Техно 24
-http://217.21.34.158:30000/24Techno/index.m3u8
-#EXTINF:-1  group-title="Познавательные",Трофей
-http://tinyurl.com/w9ajoxx/trofey_ua.ts
-#EXTINF:-1  group-title="Познавательные",Трофей HD
-http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/playlist.m3u8
-#EXTINF:-1  group-title="Познавательные",Успех
-http://128.69.110.150:4022/udp/233.33.220.235:5050
-#EXTINF:-1  group-title="Познавательные",Эврика
-http://ott-cdn.ucom.am/s44/03.m3u8
-#EXTINF:-1  group-title="Познавательные",ЭВРИКА HD
-http://92.43.140.249/s44/04.m3u8
-#EXTINF:-1  group-title="Российские",Новый канал
-http://195.34.74.6:8004/novy
-#EXTINF:-1  group-title="Российские",Новый канал
-http://85.143.191.135/42/fe072cdfc3a6db442df1de456fee4b4fbd429d76/46/stream.m3u8
-#EXTINF:-1  group-title="Российские",Новый канал
-http://tinyurl.com/v7b9jzf/ap6j7tbbq4qkaewzyq8j7sp2p75fry4ghdiq9wzzvxdsngtd5sae79m4ivkc838uqutjzgxjmn2bec9fr47g2y3vfimf6mdxp38vh7qvjkb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Новый канал.png"  group-title="Российские",Новый канал
-http://178.165.68.39:7781/udp/239.2.1.13:1234
-#EXTINF:-1  group-title="Российские",360
-http://dmitry-tv.ru/his/itv_zabava/CH_360_UL.m3u8
-#EXTINF:-1  group-title="Российские",5 канал [SD]
-http://bdhwg0cr.ottclub.xyz/iptv/H8PKZNSCSE7W75/945/index.m3u
-#EXTINF:-1  group-title="Российские",Калейдоскоп [SD]
-http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/chunks.m3u8
-#EXTINF:-1  group-title="Российские",Мир
-http://178.163.127.248:4022/udp/234.0.0.5:2000
-#EXTINF:-1  group-title="Российские",МИР
-http://178.163.82.113:4022/udp/234.0.0.5:2000
-#EXTINF:-1  group-title="Российские",Мир [FHD]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
-#EXTINF:-1  group-title="Российские",Мир [HD]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1  group-title="Российские",Мир [SD]
-http://89.106.234.4:80/Mir_34_35.m3u8
-#EXTINF:-1  group-title="Российские",Мир 24 HD
-http://176.222.255.187:81/udp/239.254.2.246:1234?deooleg
-#EXTINF:-1 group-title="Российские",Мир HD
-http://spacetv.in/stream/DVB2D6AE8CU/66.m3u8
-#EXTINF:-1  group-title="Российские",МИР HD
-http://178.163.55.176:4022/udp/234.0.0.5:2000
-#EXTINF:-1  group-title="Российские",МИР INTERNATIONAL
-http://ott-stream.sevstar.net/2035/video.m3u8?token=8330162968
-#EXTINF:-1  group-title="Российские",МИР Premium
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
-#EXTINF:-1  group-title="Российские",Мир Премиум HD
-http://188.35.9.26:11031/udp/171m
-#EXTINF:-1  group-title="Российские",Наши города (Когалым)
-http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NGOR_SUR.m3u8
-#EXTINF:-1  group-title="Российские",Ника ТВ (Калуга)
-http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NIKATV_KALUGA.m3u8
-#EXTINF:-1  group-title="Российские",Новый век (Тамбов)
-http://144.76.199.108:8000/play/a035/index.m3u8?auth=test:1234
 #EXTINF:-1  group-title="Российские",НТВ
 http://151.80.59.206/TV/FLASH-TV/n/mac/509.m3u8
 #EXTINF:-1 tvg-logo="http://ekzot.ucoz.net/ch_icons/n/ntv.png"  group-title="Российские",НТВ [SD]
 http://37.235.216.120:81/udp/225.50.64.6:1234
-#EXTINF:-1  group-title="Российские",НТВ Беларусь
-http://151.80.59.206/TV/FLASH-TV/n/mac/281.m3u8
 #EXTINF:-1 group-title="Российские",НТВ Мир
 http://spacetv.in/stream/DVB2D6AE8CU/223.m3u8
-#EXTINF:-1  group-title="Российские",НТВ Молдова
-http://93.115.137.166/hls/ntvm.m3u8
-#EXTINF:-1  group-title="Российские",Осетия Ирыстон HD
-http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8?version=2
 #EXTINF:-1 group-title="Российские",ОТР
 http://spacetv.in/stream/DVB2D6AE8CU/61.m3u8
 #EXTINF:-1  group-title="Российские",ОТР [SD]
@@ -1821,18 +512,6 @@ http://178.49.77.88:3371/udp/239.1.15.20:1234
 http://msk3.peers.tv/streaming/1kanal/126/tvrecw/playlist.m3u8
 #EXTINF:-1  group-title="Российские",Первый канал HD
 http://151.80.59.206/TV/FLASH-TV/n/mac/800.m3u8
-#EXTINF:-1  group-title="Российские",Продвижение
-http://37.235.156.207:81/udp/225.50.66.15:1234
-#EXTINF:-1  group-title="Российские",Продвижение [HD]
-http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/851/index.m3u8
-#EXTINF:-1  group-title="Российские",Продвижение [SD]
-http://dmitry-tv.my1.ru/his/yatv/CH_PRODVIZHENIEHD.m3u8
-#EXTINF:-1  group-title="Российские",Пятница!
-http://176.114.128.127:81/udp/239.100.2.15:1234
-#EXTINF:-1  group-title="Российские",Пятница! HD (auto)
-https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
-#EXTINF:-1  group-title="Российские",Пятый канал
-http://178.16.180.133:9999/play/a0ic
 #EXTINF:-1  group-title="Российские",рен
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8?|User-agent=mx
 #EXTINF:-1  group-title="Российские",Рен
@@ -1865,48 +544,12 @@ http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 http://stream-nexttv.comboplayer.ru/hlsl/2/Rossiya_24/04.m3u8
 #EXTINF:-1 group-title="Российские",Россия HD
 http://spacetv.in/stream/DVB2D6AE8CU/137.m3u8
-#EXTINF:-1  group-title="Российские",РОССИЯ К
-http://178.163.127.248:4022/udp/234.0.0.202:2000
 #EXTINF:-1  group-title="Российские",Россия К [SD]
 http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/941/index.m3u8
 #EXTINF:-1  group-title="Российские",РОССИЯ РТР
 http://31.40.128.20/hls/002_rossiya_1.m3u8
-#EXTINF:-1  group-title="Российские",Россия РТР HD (Беларусь)
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist.m3u8
 #EXTINF:-1  group-title="Российские",Россия-1
 http://streamer-1.obozrenie.tv/18/87f3cfd3c6c4f11dbe449adf/21/stream.m3u8
-#EXTINF:-1  group-title="Российские",Россия-Культура
-http://nl01.spr24.net/5099/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Российские",РТР Планета
-http://spacetv.in/stream/DVB2D6AE8CU/224.m3u8
-#EXTINF:-1  group-title="Российские",РТР Россия
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1  group-title="Российские",Самара-ГИС
-http://46.20.71.66:8000/fm
-#EXTINF:-1  group-title="Российские",Сочи 24 HD
-http://dmitry-tv.my1.ru/his/yatv/CH_SOCHI24SD.m3u8
-#EXTINF:-1  group-title="Российские",ТВ Центр
-http://93.170.3.5:4022/udp/239.255.10.25:1234
-#EXTINF:-1  group-title="Российские",ТВ3
-http://178.163.82.113:4022/udp/234.0.0.171:2000
-#EXTINF:-1  group-title="Российские",ТВ3 (Беларусь)
-http://dmitry-tv.my1.ru/his/itv_blrus/CH_TV3_BLRUS.m3u8
-#EXTINF:-1  group-title="Российские",ТВ3 HD (auto)
-https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1565200378/098f64b7f98da574dcfa0aea5663f3e0/playlist.m3u8
-#EXTINF:-1  group-title="Российские",ТВЦ (Международный)
-http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
-#EXTINF:-1  group-title="Российские",ТВЦ [SD]
-http://rt-sth-astrh-htlive-lb.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8?version=2&offset=-1
-#EXTINF:-1  group-title="Российские",ТВЦ
-http://178.163.20.50:4022/udp/234.0.0.192:2000
-#EXTINF:-1  group-title="Российские",ТВЦ
-http://93.170.3.5:4022/udp/239.255.11.8:1234
-#EXTINF:-1  group-title="Российские",Учалы ТВ
-http://live-uchalytv.cdnvideo.ru/uchalytv/uchalytv.sdp/playlist.m3u8
-#EXTINF:-1  group-title="Российские",Центральное телевидение
-http://15ee0ad1.iptvspy.ru/iptv/YV7D6TYU32SDR2/963/index.m3u8
-#EXTINF:-1  group-title="Российские",ЧЕ!
-http://188.242.237.246:65535/udp/239.239.3.64:5239
 #EXTINF:-1  group-title="Спортивные",Матч! Футбол 1
 http://19b91ba6.suklakakl.site/iptv/6D33SUTAR3AWBN/211/index.m3u8
 #EXTINF:-1  group-title="Спортивные",Матч! ФУТБОЛ 1
@@ -1979,8 +622,6 @@ http://spacetv.in/stream/DVB2D6AE8CU/106.m3u8
 http://nl01.spr24.net/22545/mpegts?token=hiVi8EHiq86NZA
 #EXTINF:-1  group-title="Развлекательные",TNT Comedy
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/17259.m3u8
-#EXTINF:-1  group-title="Развлекательные",Пятница! International
-http://kinoteatr.kg/video2/Filmu/7Pyatoe%20izmerenie.2009.60fps.mp4
 #EXTINF:-1  group-title="Развлекательные",СТС International
 http://217.15.48.100:15001/udp/225.77.53.74:5000
 #EXTINF:-1  group-title="Развлекательные",ТНТ Comedy
