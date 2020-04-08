@@ -1,15 +1,7 @@
 #EXTM3U
 -----------
 #EXTINF:-1 group-title="Украинские",1+1
-http://spacetv.in/stream/DVB2D6AE8CU/172.m3u8
-#EXTINF:-1  group-title="Украинские",1+1 HD
-http://bdhwg0cr.ottclub.xyz/iptv/H8PKZNSCSE7W75/987/index.m3u
-#EXTINF:-1  group-title="Украинские",1+1 HD
-http://live-k2302-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
-#EXTINF:-1  group-title="Украинские",1+1 HD
-https://live-k2310-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b6360000.m3u8
-#EXTINF:-1  group-title="Украинские",1+1 HD
-https://live-k2301-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b1196000.m3u8
+http://185.189.184.7:8888/1plus1/index.m3u8?token=test
 #EXTINF:0 tvg-name="11 канал" tvg-logo="https://11tv.dp.ua/wp-content/uploads/2019/04/11channel_500x500-1.png"  group-title="Украинские",11 канал
 https://real-g2.sobor.net/hls-live/live/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1  group-title="Украинские",11 канал (Днепр)
@@ -19,7 +11,7 @@ http://spacetv.in/stream/DVB2D6AE8CU/173.m3u8
 #EXTINF:-1  group-title="Украинские",34 канал
 http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
 #EXTINF:-1 group-title="Украинские",ICTV
-http://spacetv.in/stream/DVB2D6AE8CU/158.m3u8
+http://188.35.9.26:2051/udp/238.0.2.1:69000
 #EXTINF:-1  group-title="Украинские",Inter
 http://195.34.74.6:8006/interplus
 #EXTINF:-1  group-title="Украинские",Inter
